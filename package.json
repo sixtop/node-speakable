@@ -1,6 +1,6 @@
 {
-    "name": "speakable",
-    "description": "A continuous speech recognition module for node.js.",
+    "name": "speakable-google-cloud-speech",
+    "description": "A continuous speech recognition module for node.js, with google cloud speech integration",
     "author": {
       "name": "Sascha Reuter",
       "email": "sascha@tape.io"
@@ -9,7 +9,11 @@
       {
         "name":"Vittorio Banfi",
         "email":"vittorio.banfi@gmail.com"
+      },
+      {
+        "name":"Victor Palacios",
+        "email":"sixtop@gmail.com"
       }
     ],
-    "version":"0.3.0"
+    "version":"0.0.1"
 }
